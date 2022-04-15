@@ -8,3 +8,4 @@ google-cloud-secret-manager==1.0.0
 google-cloud-monitoring==1.0.0
 python-dotenv==0.13.0
 jira==2.0.0
+Jinja2==3.0.3
