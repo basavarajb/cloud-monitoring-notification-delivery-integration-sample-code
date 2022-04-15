@@ -9,3 +9,4 @@ google-cloud-monitoring==1.0.0
 python-dotenv==0.13.0
 jira==2.0.0
 Jinja2==3.0.3
+itsdangerous==2.0.1
